@@ -8,6 +8,6 @@ put your own models in `models/Diffusion_Transformer/EasyAnimateV5-12b-zh-InP` o
 python easyanimate.py
 ```
 
-Related links
+# Related links
 * https://github.com/NUS-HPC-AI-Lab/Enhance-A-Video
 * https://github.com/aigc-apps/EasyAnimate/tree/main
