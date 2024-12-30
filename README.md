@@ -2,7 +2,7 @@
 Enhance-A-Video for EasyAnimate
 
 # Inference 
-put models in `models/Diffusion_Transformer/EasyAnimateV5-12b-zh-InP` or modify `model_name` in `easyanimate.py`
+Note: put models in `models/Diffusion_Transformer/EasyAnimateV5-12b-zh-InP` or modify `model_name` in `easyanimate.py`
 
 ```
 python easyanimate.py
